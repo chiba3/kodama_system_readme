@@ -9,3 +9,4 @@ KODAMA（お客様が作られるKODAMAチャンネルのこと）には以下�
 ## こだま機能
 こだま機能は、その名の通りメッセージをチャンネルと友だちになっている全員にこだまします。
 こだまするのは、メッセージだけでなく画像、スタンプ（LINE公式配布のものに限る）も可能です。
+![KODAMA_SYSTEMの使い方](https://github.com/chiba3/kodama_system_readme/blob/master/img/kodama_system.gif)
