@@ -24,7 +24,7 @@ QRコード（赤枠）を長押しして下さい(Safariで行って下さい�
 
 画面上に友達に追加するボタンが出てくるので友だちに追加。追加後KDOAMA（チャンネル）をご利用いただけます。(LINEアプリが既にスマートホンに入っている必要があります）
 
-### パソコンの場合
+### iphone以外の場合(Androidなど)
 #### (2.1)
 
 ![友達ボタン](https://github.com/chiba3/kodama_system_readme/blob/master/img/friend.jpg)
